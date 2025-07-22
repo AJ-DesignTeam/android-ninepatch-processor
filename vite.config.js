@@ -5,7 +5,7 @@ import path from 'path'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/ninepatch-tool/', // GitHub Pages部署路径，请根据您的仓库名修改
+  base: '/android-ninepatch-processor/', // GitHub Pages部署路径，请根据您的仓库名修改
   resolve: {
     alias: {
       '@': path.resolve(__dirname, './src'),
