@@ -24,9 +24,8 @@
 
 ### 当前可用地址
 - **Manus平台**: https://tmusxfvu.manus.space
-- **GitHub Pages**: https://your-username.github.io/ninepatch-tool (部署后可用)
+- **GitHub Pages**: https://aj-designteam.github.io/android-ninepatch-processor/
 
-> 💡 **提示**: 建议部署到您自己的GitHub Pages获得永久访问地址
 
 ## 📖 使用指南
 
